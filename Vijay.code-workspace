@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"-NN.C": "cpp",
+			"SWAR_YAN.C": "cpp",
+			"TOTAL_12.C": "cpp",
+			"IFELSE(1.C": "cpp",
+			"LEADERIF.C": "cpp",
+			"NVALO.C": "cpp",
+			"ODD.C": "cpp",
+			"RECTANGL.C": "cpp",
+			"SMALL.C": "cpp",
+			"SQUARE.C": "cpp",
+			"51TO99.C": "cpp",
+			"CIRCLE.C": "cpp",
+			"FOR4.C": "cpp",
+			"FOR5.C": "cpp",
+			"FOR6.C": "cpp",
+			"FOR7.C": "cpp",
+			"NESTEDIF.C": "cpp",
+			"IFELSE(6.C": "cpp",
+			"IFELSE(5.C": "cpp",
+			"IFELSE(4.C": "cpp",
+			"IFELSE(3.C": "cpp",
+			"IFELSE(2.C": "cpp"
+		}
+	}
+}
